@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Balogun Ayobami Micheal - Profile Card</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg-decor"></div>
+  <main class="profile-card" data-testid="test-profile-card">
+    <figure class="avatar-container">
+      <img 
+        src="./assets/IMG_2745.JPG" 
+        alt="Profile Picture" 
+        class="user-avatar"
+        data-testid="test-user-avatar"
+      />
+    </figure>
+
+    <h1 class="user-name" data-testid="test-user-name">Balogun Ayobami Micheal</h1>
+    <p class="user-title" data-testid="test-user-title">Front-end Developer (Web)</p>
+
+    <p class="profile-bio" data-testid="test-profile-bio">
+      Abuja-based front-end developer focused on crafting clean, accessible, and human-centered interfaces. Passionate about performance, detail, and innovation.
+    </p>
+
+    <div class="time-section" aria-label="local time">
+      <span class="clock-icon">⏰</span>
+      <span id="user-time" data-testid="test-user-time">--:--:--</span>
+      <span id="timezone">UTC+1</span>
+    </div>
+
+    <nav class="socials" aria-label="social links" data-testid="test-user-social-links">
+      <a href="#" data-testid="twitter-link">Twitter</a>
+      <a href="#" data-testid="linkedin-link">LinkedIn</a>
+      <a href="#" data-testid="github-link">GitHub</a>
+    </nav>
+
+    <section class="extra-info">
+      <div class="card">
+        <h3>Hobbies</h3>
+        <ul>
+          <li>Reading</li>
+          <li>Coding</li>
+          <li>Forex Trading</li>
+        </ul>
+      </div>
+
+      <div class="card">
+        <h3>Dislikes</h3>
+        <ul>
+          <li>Being Broke</li>
+          <li>Procrastination</li>
+          <li>Slow Internet</li>
+        </ul>
+      </div>
+    </section>
+
+    <footer>
+      <small>Built with ❤️ — Minimal & Responsive</small>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
