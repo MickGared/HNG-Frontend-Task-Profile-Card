@@ -42,7 +42,7 @@ It extends the Stage 0 single-page profile card into a **multi-page web app** bu
 ## ⚙️ Setup & Usage
 1. Clone the repository  
    ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
+ https://github.com/<your-username>/<your-repo>.git](https://github.com/MickGared/HNG-Stage-0-Profile-Card.git
    ```
 2. Open `index.html` in your browser.  
 3. Navigate using the header links or buttons to **Contact Us** and **About Me** pages.
