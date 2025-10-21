@@ -5,16 +5,22 @@ A responsive, accessible Profile Card component built as part of a frontend deve
 
 🪶Features
 
-1️⃣Responsive Design: Adapts seamlessly to mobile, tablet, and desktop screens with vertical stacking on small devices and flexible layouts on larger ones.
-2️⃣Accessibility: Fully accessible with semantic HTML, ARIA labels, keyboard navigation, visible focus styles, and alt text for images.
-3️⃣Dynamic Time Display: Shows the current time in milliseconds, updating in real-time.
-4️⃣Social Links: Integrated navigation links that open in new tabs with security attributes.
-5️⃣Test-Friendly: All visible elements include exact data-testid attributes for automated testing stability.
-6️⃣Modern Styling: Uses CSS Flexbox, subtle animations, and a clean aesthetic with a white card background on a light gradient backdrop.
+1️⃣ Responsive Design: Adapts seamlessly to mobile, tablet, and desktop screens with vertical stacking on small devices and flexible layouts on larger ones.
+
+2️⃣ Accessibility: Fully accessible with semantic HTML, ARIA labels, keyboard navigation, visible focus styles, and alt text for images.
+
+3️⃣ Dynamic Time Display: Shows the current time in milliseconds, updating in real-time.
+
+4️⃣ Social Links: Integrated navigation links that open in new tabs with security attributes.
+
+5️⃣ Test-Friendly: All visible elements include exact data-testid attributes for automated testing stability.
+
+6️⃣ Modern Styling: Uses CSS Flexbox, subtle animations, and a clean aesthetic with a white card background on a light gradient backdrop.
 
 ⚙️Technologies Used ⚙️
-HTML5: Semantic markup with elements like <article>, <figure>, <nav>, and <section>.
-CSS3: Flexbox for layout, media queries for responsiveness, and animations.
-Vanilla JavaScript: For dynamic time updates (no frameworks required).
 
-🛠️Installation and Setup🛠️
+HTML5: Semantic markup with elements like <article>, <figure>, <nav>, and <section>.
+
+CSS3: Flexbox for layout, media queries for responsiveness, and animations.
+
+Vanilla JavaScript: For dynamic time updates 
